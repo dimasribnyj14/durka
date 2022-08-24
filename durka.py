@@ -1,5 +1,5 @@
 import turtle
 durachok = turtle.Turtle()
 durachok.hideturtle()
-print("adodus")
+print("idi v podval :)")
 turtle.exitonclick()
